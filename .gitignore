@@ -1,0 +1,12 @@
+.vscode/
+
+.DS_Store
+
+# Java/IntelliJ
+*.class
+/bin
+/out
+.idea/
+
+# Common
+*~
